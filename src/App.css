@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+#mapBox {
+  min-height: 100vh;
+}
